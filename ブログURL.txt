@@ -1,0 +1,8 @@
+・ELB
+web-elb-1782836378.us-east-1.elb.amazonaws.com
+
+・Webサーバ1号機
+ec2-35-175-185-169.compute-1.amazonaws.com/
+
+・Webサーバ2号機
+ec2-52-91-180-165.compute-1.amazonaws.com
